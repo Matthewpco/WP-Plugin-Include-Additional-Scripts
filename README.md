@@ -1,6 +1,8 @@
-![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Include-Extra-Scripts/main/include-extra-scripts-screenshot.png)
-
 # Include Extra Scripts Plugin
+
+<br>
+
+![](https://raw.githubusercontent.com/Matthewpco/WP-Plugin-Include-Extra-Scripts/main/include-extra-scripts-screenshot.png)
 
 <br>
 
